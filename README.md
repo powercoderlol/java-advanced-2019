@@ -137,3 +137,21 @@ Certificate: 8Q79BUzlhNnCmeFlWew6fSb4Mew=
 |           |
 +-----------+
 ```
+
+## Lab 10 - Hello - easy 
+```
+Certificate: l8Dk7IFqJh7W2c2oPEKM3qse82M=
++-----------+
+| .\X:      |
+| :X::      |
+| :|::      |
+|  -o.:     |
+|  oo:.     |
+|   o|.     |
+|   X.|     |
+|    ::     |
+|    .      |
+|           |
+|           |
++-----------+
+```
